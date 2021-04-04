@@ -3,12 +3,52 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://kinkunchan.github.io/mark.jin.io/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <loc>https://kinkunchan.github.io/mark.jin.io/archieve/demo/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kinkunchan.github.io/mark.jin.io/archieve/skills/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kinkunchan.github.io/mark.jin.io/archieve/experience/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kinkunchan.github.io/mark.jin.io/archieve/accomplishments/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kinkunchan.github.io/mark.jin.io/archieve/posts/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kinkunchan.github.io/mark.jin.io/archieve/projects/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kinkunchan.github.io/mark.jin.io/archieve/talks/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kinkunchan.github.io/mark.jin.io/archieve/featured/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kinkunchan.github.io/mark.jin.io/archieve/publications/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kinkunchan.github.io/mark.jin.io/archieve/tags/</loc>
   </url>
   
   <url>
     <loc>https://kinkunchan.github.io/mark.jin.io/talk/example-talk/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kinkunchan.github.io/mark.jin.io/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
   
@@ -124,6 +164,10 @@
   
   <url>
     <loc>https://kinkunchan.github.io/mark.jin.io/admin/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kinkunchan.github.io/mark.jin.io/archieve/</loc>
   </url>
   
 </urlset>
