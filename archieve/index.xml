@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Archieves | Mark Jin 金君晨</title>
-    <link>https://kinkunchan.github.io/mark.jin.io/archieve/</link>
-      <atom:link href="https://kinkunchan.github.io/mark.jin.io/archieve/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mark-jin.com/archieve/</link>
+      <atom:link href="https://mark-jin.com/archieve/index.xml" rel="self" type="application/rss+xml" />
     <description>Archieves</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://kinkunchan.github.io/mark.jin.io/media/icon_hu15601fc85d617765f3f4bac2fd7d4a93_23470_512x512_fill_lanczos_center_2.png</url>
+      <url>https://mark-jin.com/media/icon_hu15601fc85d617765f3f4bac2fd7d4a93_23470_512x512_fill_lanczos_center_2.png</url>
       <title>Archieves</title>
-      <link>https://kinkunchan.github.io/mark.jin.io/archieve/</link>
+      <link>https://mark-jin.com/archieve/</link>
     </image>
     
     <item>
       <title>Academic Template</title>
-      <link>https://kinkunchan.github.io/mark.jin.io/archieve/demo/</link>
+      <link>https://mark-jin.com/archieve/demo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kinkunchan.github.io/mark.jin.io/archieve/demo/</guid>
+      <guid>https://mark-jin.com/archieve/demo/</guid>
       <description>&lt;h2 id=&#34;-welcome-to-the-academic-template&#34;&gt;👋 Welcome to the Academic Template&lt;/h2&gt;
 &lt;p&gt;The Wowchemy &lt;strong&gt;Academic Resumé Template&lt;/strong&gt; for Hugo empowers you to create your job-winning online resumé and showcase your academic publications.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://academic-demo.netlify.app&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Check out the latest demo&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes, or &lt;a href=&#34;https://wowchemy.com/user-stories/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;view the showcase&lt;/a&gt;.&lt;/p&gt;
@@ -47,65 +47,65 @@
     
     <item>
       <title>Skills</title>
-      <link>https://kinkunchan.github.io/mark.jin.io/archieve/skills/</link>
+      <link>https://mark-jin.com/archieve/skills/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kinkunchan.github.io/mark.jin.io/archieve/skills/</guid>
+      <guid>https://mark-jin.com/archieve/skills/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Experience</title>
-      <link>https://kinkunchan.github.io/mark.jin.io/archieve/experience/</link>
+      <link>https://mark-jin.com/archieve/experience/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kinkunchan.github.io/mark.jin.io/archieve/experience/</guid>
+      <guid>https://mark-jin.com/archieve/experience/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Accomplish&amp;shy;ments</title>
-      <link>https://kinkunchan.github.io/mark.jin.io/archieve/accomplishments/</link>
+      <link>https://mark-jin.com/archieve/accomplishments/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kinkunchan.github.io/mark.jin.io/archieve/accomplishments/</guid>
+      <guid>https://mark-jin.com/archieve/accomplishments/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent Posts</title>
-      <link>https://kinkunchan.github.io/mark.jin.io/archieve/posts/</link>
+      <link>https://mark-jin.com/archieve/posts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kinkunchan.github.io/mark.jin.io/archieve/posts/</guid>
+      <guid>https://mark-jin.com/archieve/posts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>https://kinkunchan.github.io/mark.jin.io/archieve/projects/</link>
+      <link>https://mark-jin.com/archieve/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kinkunchan.github.io/mark.jin.io/archieve/projects/</guid>
+      <guid>https://mark-jin.com/archieve/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>https://kinkunchan.github.io/mark.jin.io/archieve/talks/</link>
+      <link>https://mark-jin.com/archieve/talks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kinkunchan.github.io/mark.jin.io/archieve/talks/</guid>
+      <guid>https://mark-jin.com/archieve/talks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Featured Publications</title>
-      <link>https://kinkunchan.github.io/mark.jin.io/archieve/featured/</link>
+      <link>https://mark-jin.com/archieve/featured/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kinkunchan.github.io/mark.jin.io/archieve/featured/</guid>
+      <guid>https://mark-jin.com/archieve/featured/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent Publications</title>
-      <link>https://kinkunchan.github.io/mark.jin.io/archieve/publications/</link>
+      <link>https://mark-jin.com/archieve/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kinkunchan.github.io/mark.jin.io/archieve/publications/</guid>
+      <guid>https://mark-jin.com/archieve/publications/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Quickly discover relevant content by &lt;a href=&#34;./publication/&#34;&gt;filtering publications&lt;/a&gt;.
@@ -116,9 +116,9 @@
     
     <item>
       <title>Popular Topics</title>
-      <link>https://kinkunchan.github.io/mark.jin.io/archieve/tags/</link>
+      <link>https://mark-jin.com/archieve/tags/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kinkunchan.github.io/mark.jin.io/archieve/tags/</guid>
+      <guid>https://mark-jin.com/archieve/tags/</guid>
       <description></description>
     </item>
     

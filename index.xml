@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mark Jin 金君晨</title>
-    <link>https://kinkunchan.github.io/mark.jin.io/</link>
-      <atom:link href="https://kinkunchan.github.io/mark.jin.io/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mark-jin.com/</link>
+      <atom:link href="https://mark-jin.com/index.xml" rel="self" type="application/rss+xml" />
     <description>Mark Jin 金君晨</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://kinkunchan.github.io/mark.jin.io/media/icon_hu15601fc85d617765f3f4bac2fd7d4a93_23470_512x512_fill_lanczos_center_2.png</url>
+      <url>https://mark-jin.com/media/icon_hu15601fc85d617765f3f4bac2fd7d4a93_23470_512x512_fill_lanczos_center_2.png</url>
       <title>Mark Jin 金君晨</title>
-      <link>https://kinkunchan.github.io/mark.jin.io/</link>
+      <link>https://mark-jin.com/</link>
     </image>
     
     <item>
       <title>Academic Template</title>
-      <link>https://kinkunchan.github.io/mark.jin.io/archieve/demo/</link>
+      <link>https://mark-jin.com/archieve/demo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kinkunchan.github.io/mark.jin.io/archieve/demo/</guid>
+      <guid>https://mark-jin.com/archieve/demo/</guid>
       <description>&lt;h2 id=&#34;-welcome-to-the-academic-template&#34;&gt;👋 Welcome to the Academic Template&lt;/h2&gt;
 &lt;p&gt;The Wowchemy &lt;strong&gt;Academic Resumé Template&lt;/strong&gt; for Hugo empowers you to create your job-winning online resumé and showcase your academic publications.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://academic-demo.netlify.app&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Check out the latest demo&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes, or &lt;a href=&#34;https://wowchemy.com/user-stories/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;view the showcase&lt;/a&gt;.&lt;/p&gt;
@@ -47,65 +47,65 @@
     
     <item>
       <title>Skills</title>
-      <link>https://kinkunchan.github.io/mark.jin.io/archieve/skills/</link>
+      <link>https://mark-jin.com/archieve/skills/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kinkunchan.github.io/mark.jin.io/archieve/skills/</guid>
+      <guid>https://mark-jin.com/archieve/skills/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Experience</title>
-      <link>https://kinkunchan.github.io/mark.jin.io/archieve/experience/</link>
+      <link>https://mark-jin.com/archieve/experience/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kinkunchan.github.io/mark.jin.io/archieve/experience/</guid>
+      <guid>https://mark-jin.com/archieve/experience/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Accomplish&amp;shy;ments</title>
-      <link>https://kinkunchan.github.io/mark.jin.io/archieve/accomplishments/</link>
+      <link>https://mark-jin.com/archieve/accomplishments/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kinkunchan.github.io/mark.jin.io/archieve/accomplishments/</guid>
+      <guid>https://mark-jin.com/archieve/accomplishments/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent Posts</title>
-      <link>https://kinkunchan.github.io/mark.jin.io/archieve/posts/</link>
+      <link>https://mark-jin.com/archieve/posts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kinkunchan.github.io/mark.jin.io/archieve/posts/</guid>
+      <guid>https://mark-jin.com/archieve/posts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>https://kinkunchan.github.io/mark.jin.io/archieve/projects/</link>
+      <link>https://mark-jin.com/archieve/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kinkunchan.github.io/mark.jin.io/archieve/projects/</guid>
+      <guid>https://mark-jin.com/archieve/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>https://kinkunchan.github.io/mark.jin.io/archieve/talks/</link>
+      <link>https://mark-jin.com/archieve/talks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kinkunchan.github.io/mark.jin.io/archieve/talks/</guid>
+      <guid>https://mark-jin.com/archieve/talks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Featured Publications</title>
-      <link>https://kinkunchan.github.io/mark.jin.io/archieve/featured/</link>
+      <link>https://mark-jin.com/archieve/featured/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kinkunchan.github.io/mark.jin.io/archieve/featured/</guid>
+      <guid>https://mark-jin.com/archieve/featured/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent Publications</title>
-      <link>https://kinkunchan.github.io/mark.jin.io/archieve/publications/</link>
+      <link>https://mark-jin.com/archieve/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kinkunchan.github.io/mark.jin.io/archieve/publications/</guid>
+      <guid>https://mark-jin.com/archieve/publications/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Quickly discover relevant content by &lt;a href=&#34;./publication/&#34;&gt;filtering publications&lt;/a&gt;.
@@ -116,17 +116,17 @@
     
     <item>
       <title>Popular Topics</title>
-      <link>https://kinkunchan.github.io/mark.jin.io/archieve/tags/</link>
+      <link>https://mark-jin.com/archieve/tags/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kinkunchan.github.io/mark.jin.io/archieve/tags/</guid>
+      <guid>https://mark-jin.com/archieve/tags/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Example Talk</title>
-      <link>https://kinkunchan.github.io/mark.jin.io/talk/example-talk/</link>
+      <link>https://mark-jin.com/talk/example-talk/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://kinkunchan.github.io/mark.jin.io/talk/example-talk/</guid>
+      <guid>https://mark-jin.com/talk/example-talk/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -144,9 +144,9 @@
     
     <item>
       <title>Welcome to Wowchemy, the website builder for Hugo</title>
-      <link>https://kinkunchan.github.io/mark.jin.io/post/getting-started/</link>
+      <link>https://mark-jin.com/post/getting-started/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://kinkunchan.github.io/mark.jin.io/post/getting-started/</guid>
+      <guid>https://mark-jin.com/post/getting-started/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;
@@ -221,9 +221,9 @@
     
     <item>
       <title>Slides</title>
-      <link>https://kinkunchan.github.io/mark.jin.io/slides/example/</link>
+      <link>https://mark-jin.com/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://kinkunchan.github.io/mark.jin.io/slides/example/</guid>
+      <guid>https://mark-jin.com/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://owchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -350,9 +350,9 @@ Three
     
     <item>
       <title>Example Project</title>
-      <link>https://kinkunchan.github.io/mark.jin.io/project/example/</link>
+      <link>https://mark-jin.com/project/example/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://kinkunchan.github.io/mark.jin.io/project/example/</guid>
+      <guid>https://mark-jin.com/project/example/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
 &lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
 &lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
@@ -363,9 +363,9 @@ Three
     
     <item>
       <title>An example conference paper</title>
-      <link>https://kinkunchan.github.io/mark.jin.io/publication/example/</link>
+      <link>https://mark-jin.com/publication/example/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://kinkunchan.github.io/mark.jin.io/publication/example/</guid>
+      <guid>https://mark-jin.com/publication/example/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -382,9 +382,9 @@ Three
     
     <item>
       <title></title>
-      <link>https://kinkunchan.github.io/mark.jin.io/admin/config.yml</link>
+      <link>https://mark-jin.com/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kinkunchan.github.io/mark.jin.io/admin/config.yml</guid>
+      <guid>https://mark-jin.com/admin/config.yml</guid>
       <description></description>
     </item>
     
