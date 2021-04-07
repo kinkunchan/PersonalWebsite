@@ -1,22 +1,89 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-
-<url>
-  <loc>https://mark-jin.com/</loc>
-  <lastmod>2021-04-05T08:37:23+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://mark-jin.com/media/Jin_Junchen_Resume_210225.pdf</loc>
-  <lastmod>2021-04-05T08:37:23+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-
-
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://mark-jin.com/archieve/demo/</loc>
+  </url>
+  
+  <url>
+    <loc>https://mark-jin.com/archieve/skills/</loc>
+  </url>
+  
+  <url>
+    <loc>https://mark-jin.com/archieve/experience/</loc>
+  </url>
+  
+  <url>
+    <loc>https://mark-jin.com/archieve/accomplishments/</loc>
+  </url>
+  
+  <url>
+    <loc>https://mark-jin.com/archieve/posts/</loc>
+  </url>
+  
+  <url>
+    <loc>https://mark-jin.com/archieve/projects/</loc>
+  </url>
+  
+  <url>
+    <loc>https://mark-jin.com/archieve/talks/</loc>
+  </url>
+  
+  <url>
+    <loc>https://mark-jin.com/archieve/featured/</loc>
+  </url>
+  
+  <url>
+    <loc>https://mark-jin.com/archieve/publications/</loc>
+  </url>
+  
+  <url>
+    <loc>https://mark-jin.com/archieve/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>https://mark-jin.com/admin/</loc>
+  </url>
+  
+  <url>
+    <loc></loc>
+  </url>
+  
+  <url>
+    <loc>https://mark-jin.com/archieve/</loc>
+  </url>
+  
+  <url>
+    <loc>https://mark-jin.com/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://mark-jin.com/</loc>
+  </url>
+  
+  <url>
+    <loc></loc>
+  </url>
+  
+  <url>
+    <loc>https://mark-jin.com/post/</loc>
+  </url>
+  
+  <url>
+    <loc>https://mark-jin.com/publication_types/</loc>
+  </url>
+  
+  <url>
+    <loc>https://mark-jin.com/publication/</loc>
+  </url>
+  
+  <url>
+    <loc>https://mark-jin.com/event/</loc>
+  </url>
+  
+  <url>
+    <loc>https://mark-jin.com/tags/</loc>
+  </url>
+  
 </urlset>
